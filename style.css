@@ -21,6 +21,13 @@ h6,p{
 body{
 	background: #2C2D34;
 }
+::-webkit-scrollbar-track{
+  width: 5px;
+  background: black;
+}
+::-webkit-slider-thumb{
+  background: red;
+}
 .header{
 	width: 100%;
 	height: auto;
